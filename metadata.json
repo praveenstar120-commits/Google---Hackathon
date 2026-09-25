@@ -1,0 +1,6 @@
+{
+  "name": "TechPulse India - Tech Event Intelligence",
+  "description": "Autonomous event discovery and intelligence platform for tech conferences, meetups, and hackathons across Bengaluru and Chennai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
